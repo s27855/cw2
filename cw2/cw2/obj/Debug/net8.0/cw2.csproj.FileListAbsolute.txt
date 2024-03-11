@@ -1,0 +1,15 @@
+Z:\cw2\cw2\cw2\bin\Debug\net8.0\cw2.exe
+Z:\cw2\cw2\cw2\bin\Debug\net8.0\cw2.deps.json
+Z:\cw2\cw2\cw2\bin\Debug\net8.0\cw2.runtimeconfig.json
+Z:\cw2\cw2\cw2\bin\Debug\net8.0\cw2.dll
+Z:\cw2\cw2\cw2\bin\Debug\net8.0\cw2.pdb
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.AssemblyInfoInputs.cache
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.AssemblyInfo.cs
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.csproj.CoreCompileInputs.cache
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.sourcelink.json
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.dll
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\refint\cw2.dll
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.pdb
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\cw2.genruntimeconfig.cache
+Z:\cw2\cw2\cw2\obj\Debug\net8.0\ref\cw2.dll
