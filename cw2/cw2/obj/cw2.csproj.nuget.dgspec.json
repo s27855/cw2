@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\cw2\\cw2\\cw2\\cw2.csproj": {}
+    "C:\\Users\\lanma\\Desktop\\PJATK\\4 semestr\\APBD\\cw2\\cw2\\cw2\\cw2.csproj": {}
   },
   "projects": {
-    "Z:\\cw2\\cw2\\cw2\\cw2.csproj": {
+    "C:\\Users\\lanma\\Desktop\\PJATK\\4 semestr\\APBD\\cw2\\cw2\\cw2\\cw2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\cw2\\cw2\\cw2\\cw2.csproj",
+        "projectUniqueName": "C:\\Users\\lanma\\Desktop\\PJATK\\4 semestr\\APBD\\cw2\\cw2\\cw2\\cw2.csproj",
         "projectName": "cw2",
-        "projectPath": "Z:\\cw2\\cw2\\cw2\\cw2.csproj",
-        "packagesPath": "C:\\Users\\s27855\\.nuget\\packages\\",
-        "outputPath": "Z:\\cw2\\cw2\\cw2\\obj\\",
+        "projectPath": "C:\\Users\\lanma\\Desktop\\PJATK\\4 semestr\\APBD\\cw2\\cw2\\cw2\\cw2.csproj",
+        "packagesPath": "C:\\Users\\lanma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lanma\\Desktop\\PJATK\\4 semestr\\APBD\\cw2\\cw2\\cw2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s27855\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lanma\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
