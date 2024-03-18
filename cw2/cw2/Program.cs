@@ -17,9 +17,10 @@
         }
 
         int sum = 0;
-        foreach (int num in numbersArray)
+
+        foreach (int number in numbersArray)
         {
-            sum += num;
+            sum += number;
         }
 
         return (double)sum / numbersArray.Length;
