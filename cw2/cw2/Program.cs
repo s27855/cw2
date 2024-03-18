@@ -9,20 +9,20 @@
         
     }
     
-    public static double CalculateAverage(int[] array)
+    public static double CalculateAverage(int[] numbersArray)
     {
-        if (array == null || array.Length == 0)
+        if (numbersArray == null || numbersArray.Length == 0)
         {
             throw new ArgumentException("Array must not be null or empty");
         }
 
         int sum = 0;
-        foreach (int num in array)
+        foreach (int num in numbersArray)
         {
             sum += num;
         }
 
-        return (double)sum / array.Length;
+        return (double)sum / numbersArray.Length;
     }
     
     public static int FindMax(int[] array)
